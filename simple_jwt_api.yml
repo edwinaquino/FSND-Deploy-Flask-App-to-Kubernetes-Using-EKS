@@ -1,3 +1,6 @@
+# puting comments her eto make this eilf greather than 1k because aws does nlike it
+# ERROR: SAYS: Error in UPLOAD_ARTIFACTS phase: InvalidParameter: 1 validation error(s) found.
+# HOPE THIS WORKS well
 apiVersion: v1
 kind: Service
 metadata:
@@ -41,3 +44,6 @@ spec:
             value: JWT_SECRET
           ports:
             - containerPort: 8080
+
+
+
